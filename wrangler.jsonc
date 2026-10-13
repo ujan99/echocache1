@@ -15,20 +15,22 @@
 		{
 			"binding": "echocache_logs",
 			"database_name": "echocache-logs",
-			"database_id": "95f83f55-2660-4fae-a9dd-70e6da568438",
+			"database_id": "9e89ac4f-c104-44ae-930d-788c0084a8c5",
 			"remote": true
 		}
 	],
 	"kv_namespaces": [
 		{
 			"binding": "CACHE",
-			"id": "486fcc76b2324b06855da06dba7217df",
+			"id": "bc868fc0460e4330bad4a56e71991be8",
 			"remote": true
 		}
 	],
 	"triggers": {
-    "crons": ["*/5 * * * *"]
-  }
+		"crons": [
+			"0 * * * *"
+		]
+	}
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
