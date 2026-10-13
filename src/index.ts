@@ -17,7 +17,7 @@ export interface Env {
 
 /** Same TTL on both write paths. Do not change one without the other:
  *  unequal TTLs make the treatment arm look better for the wrong reason. */
-const TTL_SECONDS = 60;
+const TTL_SECONDS = 15;
 
 /** How far back the predictor looks when counting popularity / learning pairs. */
 const WINDOW_MS = 15 * 60 * 1000;
