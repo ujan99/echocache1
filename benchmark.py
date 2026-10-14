@@ -98,12 +98,29 @@ def run_arm(arm: str, session: requests.Session):
 
     print(f"=== arm={arm} : measuring ({MEASURE} requests) ===")
     rows = []
+    consecutive_bad = 0
     for i, (sid, item) in enumerate(meas, 1):
         start = time.perf_counter()
         res = session.get(BASE_URL, params={"item": item, "session": sid, "arm": arm})
         latency = (time.perf_counter() - start) * 1000
 
         source = res.headers.get("X-Cache", "UNKNOWN")
+
+        # An UNKNOWN source means the Worker did not return a normal response
+        # (most often a KV write-quota failure). Never score these as hits:
+        # that is how a broken run masquerades as a 100% hit rate.
+        if source == "UNKNOWN":
+            consecutive_bad += 1
+            if consecutive_bad >= 10:
+                raise RuntimeError(
+                    f"ABORTED after 10 consecutive responses with no X-Cache header "
+                    f"(HTTP {res.status_code}). The Worker is erroring - most likely "
+                    f"the KV daily write quota is exhausted. Results so far are "
+                    f"unusable. Body: {res.text[:200]!r}"
+                )
+        else:
+            consecutive_bad = 0
+
         rows.append(
             {
                 "arm": arm,
@@ -111,15 +128,18 @@ def run_arm(arm: str, session: requests.Session):
                 "item": item,
                 "session": sid,
                 "source": source,
-                "hit": 0 if source == "MISS" else 1,
+                "hit": None if source == "UNKNOWN" else (0 if source == "MISS" else 1),
                 "latency_ms": latency,
             }
         )
 
         if i % 50 == 0:
-            hr = sum(r["hit"] for r in rows) / len(rows) * 100
+            good = [r for r in rows if r["hit"] is not None]
+            hr = (sum(r["hit"] for r in good) / len(good) * 100) if good else 0.0
             pw = sum(1 for r in rows if r["source"] == "PREWARM")
-            print(f"  [{i}/{MEASURE}] hit rate {hr:.1f}%  prewarm hits {pw}")
+            bad = len(rows) - len(good)
+            flag = f"  !! {bad} bad responses" if bad else ""
+            print(f"  [{i}/{MEASURE}] hit rate {hr:.1f}%  prewarm hits {pw}{flag}")
 
         if arm == "on" and i % PREDICT_EVERY == 0:
             session.get(f"{BASE_URL}/admin/predict", params={"arm": arm})
@@ -147,9 +167,20 @@ def main():
     df = pd.DataFrame(rows)
     df.to_csv("benchmark_results.csv", index=False)
 
+    bad = df["hit"].isna().sum()
+    if bad:
+        print(f"\n!!! {bad} of {len(df)} responses had no X-Cache header.")
+        print("!!! The Worker was erroring during this run. These are excluded")
+        print("!!! below, but treat the whole run as unreliable and re-run it.")
+
+    df = df.dropna(subset=["hit"])
+
     print("\n================ RESULTS ================")
     for arm in ("off", "on"):
         d = df[df["arm"] == arm]
+        if d.empty:
+            print(f"arm={arm:3}  no usable responses")
+            continue
         print(
             f"arm={arm:3}  hit rate {d['hit'].mean() * 100:5.1f}%   "
             f"mean latency {d['latency_ms'].mean():6.1f} ms   "

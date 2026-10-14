@@ -15,9 +15,14 @@ export interface Env {
 	CACHE: KVNamespace;
 }
 
-/** Same TTL on both write paths. Do not change one without the other:
- *  unequal TTLs make the treatment arm look better for the wrong reason. */
-const TTL_SECONDS = 15;
+/** KV refuses any expirationTtl below 60 seconds, so 60 is the floor we must
+ *  pass to put(). It is NOT the TTL the experiment uses. */
+const KV_FLOOR_SECONDS = 60;
+
+/** The TTL the experiment actually varies. Enforced in code: an entry older
+ *  than this is treated as a miss even though KV still holds it. Both arms
+ *  use this same value - unequal TTLs would flatter the treatment arm. */
+const SOFT_TTL_MS = 20_000;
 
 /** How far back the predictor looks when counting popularity / learning pairs. */
 const WINDOW_MS = 15 * 60 * 1000;
@@ -32,6 +37,19 @@ interface Entry {
 	data: string;
 	source: 'REACTIVE' | 'PREWARM';
 	at: number;
+}
+
+/** An entry counts as cached only while it is inside the soft TTL. */
+const fresh = (e: Entry | null): e is Entry => e !== null && Date.now() - e.at < SOFT_TTL_MS;
+
+/** Read an entry, tolerating anything in KV that is not our JSON shape
+ *  (a legacy plain-string value would otherwise throw and 500 the request). */
+async function cacheGet(env: Env, arm: Arm, itemId: string): Promise<Entry | null> {
+	try {
+		return (await env.CACHE.get(itemKey(arm, itemId), 'json')) as Entry | null;
+	} catch {
+		return null;
+	}
 }
 
 const itemKey = (arm: Arm, item: string) => `${arm}:item:${item}`;
@@ -52,11 +70,11 @@ async function readOrigin(env: Env, itemId: string): Promise<string> {
 async function cachePut(env: Env, arm: Arm, itemId: string, data: string, source: 'REACTIVE' | 'PREWARM'): Promise<boolean> {
 	const key = itemKey(arm, itemId);
 	if (source === 'PREWARM') {
-		const existing = await env.CACHE.get(key);
-		if (existing !== null) return false; // already warm, nothing gained
+		const existing = await cacheGet(env, arm, itemId);
+		if (fresh(existing)) return false; // already warm, nothing gained
 	}
 	const entry: Entry = { data, source, at: Date.now() };
-	await env.CACHE.put(key, JSON.stringify(entry), { expirationTtl: TTL_SECONDS });
+	await env.CACHE.put(key, JSON.stringify(entry), { expirationTtl: KV_FLOOR_SECONDS });
 	return true;
 }
 
@@ -170,6 +188,10 @@ export default {
 			return Response.json({ ok: true, cleared: ['access_log', 'prewarm_log'] });
 		}
 
+		if (url.pathname === '/admin/config') {
+			return Response.json({ ok: true, soft_ttl_ms: SOFT_TTL_MS, kv_floor_seconds: KV_FLOOR_SECONDS });
+		}
+
 		if (url.pathname === '/admin/stats') {
 			const r = await env.echocache_logs
 				.prepare(
@@ -185,12 +207,12 @@ export default {
 		const sessionId = url.searchParams.get('session') ?? 'anonymous';
 		const ts = Date.now();
 
-		const entry = (await env.CACHE.get(itemKey(arm, itemId), 'json')) as Entry | null;
+		const entry = await cacheGet(env, arm, itemId);
 
 		let source: Source;
 		let data: string;
 
-		if (entry) {
+		if (fresh(entry)) {
 			source = entry.source; // REACTIVE or PREWARM - this is the key measurement
 			data = entry.data;
 		} else {
