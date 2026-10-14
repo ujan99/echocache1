@@ -1,0 +1,5064 @@
+[
+  {
+    "results": [
+      {
+        "id": 981,
+        "session_id": "s6",
+        "item_id": "item_044",
+        "ts": 1791989936303,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 982,
+        "session_id": "s6",
+        "item_id": "item_136",
+        "ts": 1791989937175,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 983,
+        "session_id": "bg7",
+        "item_id": "item_000",
+        "ts": 1791989938065,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 984,
+        "session_id": "s1",
+        "item_id": "item_029",
+        "ts": 1791989938959,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 985,
+        "session_id": "s2",
+        "item_id": "item_067",
+        "ts": 1791989939829,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 986,
+        "session_id": "s1",
+        "item_id": "item_093",
+        "ts": 1791989940709,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 987,
+        "session_id": "s6",
+        "item_id": "item_173",
+        "ts": 1791989941590,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 988,
+        "session_id": "s5",
+        "item_id": "item_175",
+        "ts": 1791989942440,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 989,
+        "session_id": "s4",
+        "item_id": "item_175",
+        "ts": 1791989943338,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 990,
+        "session_id": "s1",
+        "item_id": "item_198",
+        "ts": 1791989943598,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 991,
+        "session_id": "bg8",
+        "item_id": "item_000",
+        "ts": 1791989944574,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 992,
+        "session_id": "s3",
+        "item_id": "item_167",
+        "ts": 1791989944830,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 993,
+        "session_id": "s3",
+        "item_id": "item_115",
+        "ts": 1791989945712,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 994,
+        "session_id": "s4",
+        "item_id": "item_024",
+        "ts": 1791989946596,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 995,
+        "session_id": "s3",
+        "item_id": "item_179",
+        "ts": 1791989947449,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 996,
+        "session_id": "s1",
+        "item_id": "item_056",
+        "ts": 1791989948303,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 997,
+        "session_id": "bg9",
+        "item_id": "item_008",
+        "ts": 1791989949136,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 998,
+        "session_id": "bg10",
+        "item_id": "item_003",
+        "ts": 1791989950031,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 999,
+        "session_id": "s6",
+        "item_id": "item_147",
+        "ts": 1791989950892,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1000,
+        "session_id": "bg12",
+        "item_id": "item_002",
+        "ts": 1791989951755,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1001,
+        "session_id": "s2",
+        "item_id": "item_035",
+        "ts": 1791989952596,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1002,
+        "session_id": "bg14",
+        "item_id": "item_037",
+        "ts": 1791989953436,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1003,
+        "session_id": "bg15",
+        "item_id": "item_066",
+        "ts": 1791989954302,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1004,
+        "session_id": "bg16",
+        "item_id": "item_003",
+        "ts": 1791989955138,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1005,
+        "session_id": "s4",
+        "item_id": "item_151",
+        "ts": 1791989955396,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1006,
+        "session_id": "s4",
+        "item_id": "item_130",
+        "ts": 1791989956236,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1007,
+        "session_id": "s17",
+        "item_id": "item_167",
+        "ts": 1791989957065,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1008,
+        "session_id": "bg18",
+        "item_id": "item_016",
+        "ts": 1791989957324,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1009,
+        "session_id": "s3",
+        "item_id": "item_160",
+        "ts": 1791989958241,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1010,
+        "session_id": "s5",
+        "item_id": "item_024",
+        "ts": 1791989959117,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1011,
+        "session_id": "s11",
+        "item_id": "item_036",
+        "ts": 1791989959375,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1012,
+        "session_id": "bg20",
+        "item_id": "item_015",
+        "ts": 1791989960223,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1013,
+        "session_id": "s19",
+        "item_id": "item_175",
+        "ts": 1791989961156,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1014,
+        "session_id": "s2",
+        "item_id": "item_062",
+        "ts": 1791989961416,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1015,
+        "session_id": "s2",
+        "item_id": "item_095",
+        "ts": 1791989962223,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1016,
+        "session_id": "bg21",
+        "item_id": "item_003",
+        "ts": 1791989963052,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1017,
+        "session_id": "s22",
+        "item_id": "item_089",
+        "ts": 1791989963309,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1018,
+        "session_id": "s22",
+        "item_id": "item_167",
+        "ts": 1791989964144,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1019,
+        "session_id": "s22",
+        "item_id": "item_066",
+        "ts": 1791989964407,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1020,
+        "session_id": "s13",
+        "item_id": "item_138",
+        "ts": 1791989964688,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1021,
+        "session_id": "s22",
+        "item_id": "item_116",
+        "ts": 1791989965691,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1022,
+        "session_id": "s23",
+        "item_id": "item_167",
+        "ts": 1791989966503,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1023,
+        "session_id": "s19",
+        "item_id": "item_024",
+        "ts": 1791989967140,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1024,
+        "session_id": "s11",
+        "item_id": "item_032",
+        "ts": 1791989967811,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1025,
+        "session_id": "bg24",
+        "item_id": "item_000",
+        "ts": 1791989968655,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1026,
+        "session_id": "s5",
+        "item_id": "item_151",
+        "ts": 1791989969321,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1027,
+        "session_id": "bg25",
+        "item_id": "item_000",
+        "ts": 1791989969582,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1028,
+        "session_id": "s23",
+        "item_id": "item_115",
+        "ts": 1791989969841,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1029,
+        "session_id": "s5",
+        "item_id": "item_130",
+        "ts": 1791989970509,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1030,
+        "session_id": "s19",
+        "item_id": "item_151",
+        "ts": 1791989970770,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1031,
+        "session_id": "s23",
+        "item_id": "item_179",
+        "ts": 1791989971032,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1032,
+        "session_id": "bg27",
+        "item_id": "item_000",
+        "ts": 1791989971713,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1033,
+        "session_id": "bg28",
+        "item_id": "item_020",
+        "ts": 1791989971974,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1034,
+        "session_id": "s17",
+        "item_id": "item_115",
+        "ts": 1791989972824,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1035,
+        "session_id": "bg29",
+        "item_id": "item_002",
+        "ts": 1791989973095,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1036,
+        "session_id": "s13",
+        "item_id": "item_114",
+        "ts": 1791989973750,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1037,
+        "session_id": "s26",
+        "item_id": "item_089",
+        "ts": 1791989974588,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1038,
+        "session_id": "bg30",
+        "item_id": "item_001",
+        "ts": 1791989974845,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1039,
+        "session_id": "s13",
+        "item_id": "item_191",
+        "ts": 1791989975664,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1040,
+        "session_id": "s11",
+        "item_id": "item_168",
+        "ts": 1791989976682,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1041,
+        "session_id": "bg31",
+        "item_id": "item_001",
+        "ts": 1791989977521,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1042,
+        "session_id": "s23",
+        "item_id": "item_160",
+        "ts": 1791989977779,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1043,
+        "session_id": "s13",
+        "item_id": "item_198",
+        "ts": 1791989978037,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1044,
+        "session_id": "s11",
+        "item_id": "item_035",
+        "ts": 1791989978793,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1045,
+        "session_id": "s17",
+        "item_id": "item_179",
+        "ts": 1791989979439,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1046,
+        "session_id": "s26",
+        "item_id": "item_167",
+        "ts": 1791989979699,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1047,
+        "session_id": "bg35",
+        "item_id": "item_056",
+        "ts": 1791989979965,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1048,
+        "session_id": "s17",
+        "item_id": "item_160",
+        "ts": 1791989980609,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1049,
+        "session_id": "s19",
+        "item_id": "item_130",
+        "ts": 1791989981308,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1050,
+        "session_id": "s26",
+        "item_id": "item_066",
+        "ts": 1791989981962,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1051,
+        "session_id": "bg38",
+        "item_id": "item_007",
+        "ts": 1791989982626,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1052,
+        "session_id": "s37",
+        "item_id": "item_044",
+        "ts": 1791989983564,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1053,
+        "session_id": "s36",
+        "item_id": "item_089",
+        "ts": 1791989984237,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1054,
+        "session_id": "s36",
+        "item_id": "item_167",
+        "ts": 1791989984865,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1055,
+        "session_id": "bg39",
+        "item_id": "item_004",
+        "ts": 1791989985132,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1056,
+        "session_id": "s36",
+        "item_id": "item_066",
+        "ts": 1791989985966,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1057,
+        "session_id": "bg40",
+        "item_id": "item_021",
+        "ts": 1791989986235,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1058,
+        "session_id": "bg41",
+        "item_id": "item_003",
+        "ts": 1791989987219,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1059,
+        "session_id": "bg42",
+        "item_id": "item_002",
+        "ts": 1791989987863,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1060,
+        "session_id": "bg43",
+        "item_id": "item_004",
+        "ts": 1791989988125,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1061,
+        "session_id": "s100005",
+        "item_id": "item_052",
+        "ts": 1791989988397,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1062,
+        "session_id": "s100001",
+        "item_id": "item_138",
+        "ts": 1791989989212,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1063,
+        "session_id": "bg100007",
+        "item_id": "item_000",
+        "ts": 1791989989976,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1064,
+        "session_id": "s100001",
+        "item_id": "item_114",
+        "ts": 1791989990627,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1065,
+        "session_id": "bg100008",
+        "item_id": "item_000",
+        "ts": 1791989990888,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1066,
+        "session_id": "s100006",
+        "item_id": "item_175",
+        "ts": 1791989991151,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1067,
+        "session_id": "s100005",
+        "item_id": "item_119",
+        "ts": 1791989992117,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1068,
+        "session_id": "s100005",
+        "item_id": "item_172",
+        "ts": 1791989993071,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1069,
+        "session_id": "s100002",
+        "item_id": "item_131",
+        "ts": 1791989993915,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1070,
+        "session_id": "bg100009",
+        "item_id": "item_047",
+        "ts": 1791989994879,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1071,
+        "session_id": "s100001",
+        "item_id": "item_191",
+        "ts": 1791989995730,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1072,
+        "session_id": "bg100010",
+        "item_id": "item_002",
+        "ts": 1791989995997,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1073,
+        "session_id": "s100006",
+        "item_id": "item_024",
+        "ts": 1791989996653,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1074,
+        "session_id": "s100006",
+        "item_id": "item_151",
+        "ts": 1791989997293,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1075,
+        "session_id": "bg100011",
+        "item_id": "item_000",
+        "ts": 1791989997969,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1076,
+        "session_id": "s100003",
+        "item_id": "item_029",
+        "ts": 1791989998229,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1077,
+        "session_id": "bg100012",
+        "item_id": "item_000",
+        "ts": 1791989998916,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1078,
+        "session_id": "s100005",
+        "item_id": "item_149",
+        "ts": 1791989999181,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1079,
+        "session_id": "s100002",
+        "item_id": "item_120",
+        "ts": 1791990000016,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1080,
+        "session_id": "s100002",
+        "item_id": "item_065",
+        "ts": 1791990000926,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1081,
+        "session_id": "bg100014",
+        "item_id": "item_000",
+        "ts": 1791990001795,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1082,
+        "session_id": "bg100015",
+        "item_id": "item_067",
+        "ts": 1791990002065,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1083,
+        "session_id": "s100013",
+        "item_id": "item_047",
+        "ts": 1791990002943,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1084,
+        "session_id": "bg100016",
+        "item_id": "item_058",
+        "ts": 1791990003215,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1085,
+        "session_id": "bg100017",
+        "item_id": "item_112",
+        "ts": 1791990004140,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1086,
+        "session_id": "bg100018",
+        "item_id": "item_000",
+        "ts": 1791990004960,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1087,
+        "session_id": "s100002",
+        "item_id": "item_034",
+        "ts": 1791990005222,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1088,
+        "session_id": "bg100019",
+        "item_id": "item_094",
+        "ts": 1791990006056,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1089,
+        "session_id": "s100006",
+        "item_id": "item_130",
+        "ts": 1791990006951,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1090,
+        "session_id": "s100004",
+        "item_id": "item_089",
+        "ts": 1791990007601,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1091,
+        "session_id": "s100021",
+        "item_id": "item_044",
+        "ts": 1791990008258,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1092,
+        "session_id": "bg100022",
+        "item_id": "item_009",
+        "ts": 1791990008954,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1093,
+        "session_id": "bg100023",
+        "item_id": "item_000",
+        "ts": 1791990009899,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1094,
+        "session_id": "s100001",
+        "item_id": "item_198",
+        "ts": 1791990010164,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1095,
+        "session_id": "s100003",
+        "item_id": "item_093",
+        "ts": 1791990010815,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1096,
+        "session_id": "bg100025",
+        "item_id": "item_000",
+        "ts": 1791990011689,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1097,
+        "session_id": "s100021",
+        "item_id": "item_061",
+        "ts": 1791990012379,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1098,
+        "session_id": "bg100026",
+        "item_id": "item_007",
+        "ts": 1791990013229,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1099,
+        "session_id": "s100021",
+        "item_id": "item_151",
+        "ts": 1791990013958,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1100,
+        "session_id": "s100004",
+        "item_id": "item_167",
+        "ts": 1791990014226,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1101,
+        "session_id": "s100003",
+        "item_id": "item_198",
+        "ts": 1791990014924,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1102,
+        "session_id": "bg100027",
+        "item_id": "item_001",
+        "ts": 1791990015182,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1103,
+        "session_id": "s100021",
+        "item_id": "item_146",
+        "ts": 1791990015842,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1104,
+        "session_id": "s100003",
+        "item_id": "item_056",
+        "ts": 1791990016708,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1105,
+        "session_id": "s100029",
+        "item_id": "item_047",
+        "ts": 1791990017375,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1106,
+        "session_id": "s100028",
+        "item_id": "item_089",
+        "ts": 1791990018034,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1107,
+        "session_id": "s100020",
+        "item_id": "item_029",
+        "ts": 1791990018296,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1108,
+        "session_id": "s100029",
+        "item_id": "item_051",
+        "ts": 1791990018990,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1109,
+        "session_id": "s100020",
+        "item_id": "item_093",
+        "ts": 1791990019849,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1110,
+        "session_id": "s100029",
+        "item_id": "item_116",
+        "ts": 1791990020110,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1111,
+        "session_id": "s100024",
+        "item_id": "item_052",
+        "ts": 1791990020801,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1112,
+        "session_id": "s100004",
+        "item_id": "item_066",
+        "ts": 1791990021469,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1113,
+        "session_id": "s100028",
+        "item_id": "item_167",
+        "ts": 1791990022142,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1114,
+        "session_id": "bg100030",
+        "item_id": "item_193",
+        "ts": 1791990022403,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1115,
+        "session_id": "s100013",
+        "item_id": "item_051",
+        "ts": 1791990023276,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1116,
+        "session_id": "s100013",
+        "item_id": "item_116",
+        "ts": 1791990023551,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1117,
+        "session_id": "bg100031",
+        "item_id": "item_080",
+        "ts": 1791990023810,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1118,
+        "session_id": "bg100032",
+        "item_id": "item_002",
+        "ts": 1791990024685,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1119,
+        "session_id": "s100028",
+        "item_id": "item_066",
+        "ts": 1791990025333,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1120,
+        "session_id": "bg100033",
+        "item_id": "item_012",
+        "ts": 1791990025602,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1121,
+        "session_id": "bg100034",
+        "item_id": "item_016",
+        "ts": 1791990026501,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1122,
+        "session_id": "s100028",
+        "item_id": "item_116",
+        "ts": 1791990027437,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1123,
+        "session_id": "s100004",
+        "item_id": "item_116",
+        "ts": 1791990027703,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1124,
+        "session_id": "bg100036",
+        "item_id": "item_000",
+        "ts": 1791990027969,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1125,
+        "session_id": "s100037",
+        "item_id": "item_138",
+        "ts": 1791990028241,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1126,
+        "session_id": "s100024",
+        "item_id": "item_119",
+        "ts": 1791990028943,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1127,
+        "session_id": "s100020",
+        "item_id": "item_198",
+        "ts": 1791990029598,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1128,
+        "session_id": "bg100038",
+        "item_id": "item_000",
+        "ts": 1791990029862,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1129,
+        "session_id": "s100024",
+        "item_id": "item_172",
+        "ts": 1791990030130,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1130,
+        "session_id": "s100024",
+        "item_id": "item_149",
+        "ts": 1791990030824,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1131,
+        "session_id": "bg100039",
+        "item_id": "item_062",
+        "ts": 1791990031503,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1132,
+        "session_id": "s100029",
+        "item_id": "item_059",
+        "ts": 1791990032336,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1133,
+        "session_id": "s100020",
+        "item_id": "item_056",
+        "ts": 1791990033184,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1134,
+        "session_id": "s100035",
+        "item_id": "item_036",
+        "ts": 1791990033447,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1135,
+        "session_id": "bg100043",
+        "item_id": "item_008",
+        "ts": 1791990034350,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1136,
+        "session_id": "s100013",
+        "item_id": "item_059",
+        "ts": 1791990035232,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1137,
+        "session_id": "s100037",
+        "item_id": "item_114",
+        "ts": 1791990035511,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1138,
+        "session_id": "s100040",
+        "item_id": "item_047",
+        "ts": 1791990036437,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1139,
+        "session_id": "s100037",
+        "item_id": "item_191",
+        "ts": 1791990036701,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1140,
+        "session_id": "s100035",
+        "item_id": "item_032",
+        "ts": 1791990037692,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1141,
+        "session_id": "s100035",
+        "item_id": "item_168",
+        "ts": 1791990038568,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1142,
+        "session_id": "bg100045",
+        "item_id": "item_000",
+        "ts": 1791990039408,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1143,
+        "session_id": "s100035",
+        "item_id": "item_035",
+        "ts": 1791990040105,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1144,
+        "session_id": "s100042",
+        "item_id": "item_167",
+        "ts": 1791990040982,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1145,
+        "session_id": "bg100047",
+        "item_id": "item_031",
+        "ts": 1791990042330,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1146,
+        "session_id": "bg100048",
+        "item_id": "item_001",
+        "ts": 1791990043258,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1147,
+        "session_id": "s100040",
+        "item_id": "item_051",
+        "ts": 1791990043936,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1148,
+        "session_id": "bg100049",
+        "item_id": "item_000",
+        "ts": 1791990044634,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1149,
+        "session_id": "bg100050",
+        "item_id": "item_002",
+        "ts": 1791990044894,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1150,
+        "session_id": "bg100051",
+        "item_id": "item_045",
+        "ts": 1791990045586,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1151,
+        "session_id": "bg100052",
+        "item_id": "item_048",
+        "ts": 1791990046445,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1152,
+        "session_id": "s100046",
+        "item_id": "item_052",
+        "ts": 1791990047284,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1153,
+        "session_id": "s100037",
+        "item_id": "item_198",
+        "ts": 1791990047973,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1154,
+        "session_id": "bg100053",
+        "item_id": "item_001",
+        "ts": 1791990048642,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1155,
+        "session_id": "bg100054",
+        "item_id": "item_005",
+        "ts": 1791990048914,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1156,
+        "session_id": "s100041",
+        "item_id": "item_131",
+        "ts": 1791990049766,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1157,
+        "session_id": "s100041",
+        "item_id": "item_120",
+        "ts": 1791990050428,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1158,
+        "session_id": "s100042",
+        "item_id": "item_115",
+        "ts": 1791990051065,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1159,
+        "session_id": "bg100056",
+        "item_id": "item_153",
+        "ts": 1791990051946,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1160,
+        "session_id": "s100055",
+        "item_id": "item_175",
+        "ts": 1791990052835,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1161,
+        "session_id": "s100055",
+        "item_id": "item_024",
+        "ts": 1791990053689,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1162,
+        "session_id": "bg100057",
+        "item_id": "item_008",
+        "ts": 1791990054391,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1163,
+        "session_id": "bg100058",
+        "item_id": "item_000",
+        "ts": 1791990054658,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1164,
+        "session_id": "bg100059",
+        "item_id": "item_000",
+        "ts": 1791990054931,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1165,
+        "session_id": "bg100060",
+        "item_id": "item_001",
+        "ts": 1791990055204,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1166,
+        "session_id": "s100044",
+        "item_id": "item_067",
+        "ts": 1791990055467,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1167,
+        "session_id": "s100042",
+        "item_id": "item_179",
+        "ts": 1791990056101,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1168,
+        "session_id": "s100046",
+        "item_id": "item_119",
+        "ts": 1791990056945,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1169,
+        "session_id": "s100046",
+        "item_id": "item_172",
+        "ts": 1791990057681,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1170,
+        "session_id": "s100040",
+        "item_id": "item_116",
+        "ts": 1791990058394,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1171,
+        "session_id": "bg100061",
+        "item_id": "item_000",
+        "ts": 1791990059066,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1172,
+        "session_id": "bg100062",
+        "item_id": "item_008",
+        "ts": 1791990059329,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1173,
+        "session_id": "bg100063",
+        "item_id": "item_030",
+        "ts": 1791990059992,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1174,
+        "session_id": "bg100064",
+        "item_id": "item_002",
+        "ts": 1791990060877,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1175,
+        "session_id": "s100055",
+        "item_id": "item_151",
+        "ts": 1791990061140,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1176,
+        "session_id": "bg100065",
+        "item_id": "item_013",
+        "ts": 1791990062036,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1177,
+        "session_id": "bg100066",
+        "item_id": "item_000",
+        "ts": 1791990063002,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1178,
+        "session_id": "bg100067",
+        "item_id": "item_006",
+        "ts": 1791990063665,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1179,
+        "session_id": "bg100068",
+        "item_id": "item_002",
+        "ts": 1791990064556,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1180,
+        "session_id": "bg100069",
+        "item_id": "item_009",
+        "ts": 1791990064818,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1181,
+        "session_id": "s100055",
+        "item_id": "item_130",
+        "ts": 1791990065489,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1182,
+        "session_id": "bg100070",
+        "item_id": "item_019",
+        "ts": 1791990066150,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1183,
+        "session_id": "bg100071",
+        "item_id": "item_013",
+        "ts": 1791990067076,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1184,
+        "session_id": "s100040",
+        "item_id": "item_059",
+        "ts": 1791990067339,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1185,
+        "session_id": "s100046",
+        "item_id": "item_149",
+        "ts": 1791990068062,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1186,
+        "session_id": "bg100074",
+        "item_id": "item_012",
+        "ts": 1791990068723,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1187,
+        "session_id": "s100072",
+        "item_id": "item_052",
+        "ts": 1791990069385,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1188,
+        "session_id": "bg100076",
+        "item_id": "item_006",
+        "ts": 1791990070041,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1189,
+        "session_id": "bg100077",
+        "item_id": "item_145",
+        "ts": 1791990070312,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1190,
+        "session_id": "bg100078",
+        "item_id": "item_017",
+        "ts": 1791990071198,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1191,
+        "session_id": "s100075",
+        "item_id": "item_044",
+        "ts": 1791990072048,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1192,
+        "session_id": "s100044",
+        "item_id": "item_035",
+        "ts": 1791990072893,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1193,
+        "session_id": "s100042",
+        "item_id": "item_160",
+        "ts": 1791990073556,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1194,
+        "session_id": "bg100079",
+        "item_id": "item_001",
+        "ts": 1791990074495,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1195,
+        "session_id": "s100041",
+        "item_id": "item_065",
+        "ts": 1791990075154,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1196,
+        "session_id": "s100073",
+        "item_id": "item_175",
+        "ts": 1791990076007,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1197,
+        "session_id": "s100041",
+        "item_id": "item_034",
+        "ts": 1791990076663,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1198,
+        "session_id": "s100080",
+        "item_id": "item_029",
+        "ts": 1791990077504,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1199,
+        "session_id": "s100081",
+        "item_id": "item_036",
+        "ts": 1791990078170,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1200,
+        "session_id": "s100075",
+        "item_id": "item_061",
+        "ts": 1791990079038,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1201,
+        "session_id": "s100081",
+        "item_id": "item_032",
+        "ts": 1791990079876,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1202,
+        "session_id": "bg100082",
+        "item_id": "item_087",
+        "ts": 1791990080525,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1203,
+        "session_id": "bg100083",
+        "item_id": "item_083",
+        "ts": 1791990081389,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1204,
+        "session_id": "bg100084",
+        "item_id": "item_001",
+        "ts": 1791990082253,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1205,
+        "session_id": "bg100085",
+        "item_id": "item_022",
+        "ts": 1791990082522,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1206,
+        "session_id": "s100080",
+        "item_id": "item_093",
+        "ts": 1791990083403,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1207,
+        "session_id": "s100044",
+        "item_id": "item_062",
+        "ts": 1791990084264,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1208,
+        "session_id": "s100075",
+        "item_id": "item_151",
+        "ts": 1791990084916,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1209,
+        "session_id": "bg100086",
+        "item_id": "item_181",
+        "ts": 1791990085573,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1210,
+        "session_id": "s100075",
+        "item_id": "item_146",
+        "ts": 1791990086425,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1211,
+        "session_id": "s100081",
+        "item_id": "item_168",
+        "ts": 1791990087313,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1212,
+        "session_id": "s100081",
+        "item_id": "item_035",
+        "ts": 1791990088007,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1213,
+        "session_id": "s100088",
+        "item_id": "item_044",
+        "ts": 1791990088275,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1214,
+        "session_id": "bg100089",
+        "item_id": "item_004",
+        "ts": 1791990088542,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1215,
+        "session_id": "bg100090",
+        "item_id": "item_059",
+        "ts": 1791990089386,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1216,
+        "session_id": "s100087",
+        "item_id": "item_067",
+        "ts": 1791990090300,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1217,
+        "session_id": "s100072",
+        "item_id": "item_119",
+        "ts": 1791990090956,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1218,
+        "session_id": "s100044",
+        "item_id": "item_095",
+        "ts": 1791990091732,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1219,
+        "session_id": "bg100091",
+        "item_id": "item_001",
+        "ts": 1791990092570,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1220,
+        "session_id": "s100072",
+        "item_id": "item_172",
+        "ts": 1791990092853,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1221,
+        "session_id": "s100073",
+        "item_id": "item_024",
+        "ts": 1791990093523,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1222,
+        "session_id": "s100073",
+        "item_id": "item_151",
+        "ts": 1791990094199,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1223,
+        "session_id": "bg100093",
+        "item_id": "item_000",
+        "ts": 1791990094477,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1224,
+        "session_id": "s100088",
+        "item_id": "item_136",
+        "ts": 1791990095150,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1225,
+        "session_id": "s100072",
+        "item_id": "item_149",
+        "ts": 1791990096063,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1226,
+        "session_id": "s100088",
+        "item_id": "item_173",
+        "ts": 1791990096722,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1227,
+        "session_id": "bg100095",
+        "item_id": "item_010",
+        "ts": 1791990097538,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1228,
+        "session_id": "bg100096",
+        "item_id": "item_067",
+        "ts": 1791990098701,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1229,
+        "session_id": "bg100097",
+        "item_id": "item_003",
+        "ts": 1791990098965,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1230,
+        "session_id": "s100087",
+        "item_id": "item_035",
+        "ts": 1791990099864,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1231,
+        "session_id": "s100088",
+        "item_id": "item_147",
+        "ts": 1791990100506,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1232,
+        "session_id": "bg100098",
+        "item_id": "item_138",
+        "ts": 1791990101354,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1233,
+        "session_id": "s100099",
+        "item_id": "item_067",
+        "ts": 1791990102274,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1234,
+        "session_id": "s100094",
+        "item_id": "item_047",
+        "ts": 1791990102541,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1235,
+        "session_id": "bg100100",
+        "item_id": "item_006",
+        "ts": 1791990103391,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1236,
+        "session_id": "s100092",
+        "item_id": "item_052",
+        "ts": 1791990104048,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1237,
+        "session_id": "s100087",
+        "item_id": "item_062",
+        "ts": 1791990104688,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1238,
+        "session_id": "bg100101",
+        "item_id": "item_044",
+        "ts": 1791990105412,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1239,
+        "session_id": "bg100102",
+        "item_id": "item_059",
+        "ts": 1791990106092,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1240,
+        "session_id": "bg100103",
+        "item_id": "item_171",
+        "ts": 1791990106359,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1241,
+        "session_id": "s100092",
+        "item_id": "item_119",
+        "ts": 1791990107196,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1242,
+        "session_id": "s100099",
+        "item_id": "item_035",
+        "ts": 1791990107456,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1243,
+        "session_id": "s100099",
+        "item_id": "item_062",
+        "ts": 1791990107713,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1244,
+        "session_id": "s100092",
+        "item_id": "item_172",
+        "ts": 1791990107974,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1245,
+        "session_id": "s100087",
+        "item_id": "item_095",
+        "ts": 1791990108232,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1246,
+        "session_id": "s100094",
+        "item_id": "item_051",
+        "ts": 1791990108496,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1247,
+        "session_id": "s100094",
+        "item_id": "item_116",
+        "ts": 1791990109361,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1248,
+        "session_id": "s100094",
+        "item_id": "item_059",
+        "ts": 1791990109998,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1249,
+        "session_id": "s100099",
+        "item_id": "item_095",
+        "ts": 1791990110660,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1250,
+        "session_id": "s100073",
+        "item_id": "item_130",
+        "ts": 1791990110922,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1251,
+        "session_id": "bg100107",
+        "item_id": "item_002",
+        "ts": 1791990111556,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1252,
+        "session_id": "bg100108",
+        "item_id": "item_039",
+        "ts": 1791990112419,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1253,
+        "session_id": "bg100109",
+        "item_id": "item_032",
+        "ts": 1791990113277,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1254,
+        "session_id": "bg100110",
+        "item_id": "item_000",
+        "ts": 1791990113946,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1255,
+        "session_id": "s100092",
+        "item_id": "item_149",
+        "ts": 1791990114203,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1256,
+        "session_id": "s100080",
+        "item_id": "item_198",
+        "ts": 1791990114474,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1257,
+        "session_id": "s100104",
+        "item_id": "item_175",
+        "ts": 1791990115345,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1258,
+        "session_id": "s100105",
+        "item_id": "item_138",
+        "ts": 1791990116046,
+        "cache_hit": 1,
+        "arm": "off",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1259,
+        "session_id": "bg100113",
+        "item_id": "item_000",
+        "ts": 1791990116326,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1260,
+        "session_id": "s100112",
+        "item_id": "item_036",
+        "ts": 1791990117046,
+        "cache_hit": 0,
+        "arm": "off",
+        "source": "MISS"
+      },
+      {
+        "id": 1261,
+        "session_id": "s6",
+        "item_id": "item_044",
+        "ts": 1791990189083,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1262,
+        "session_id": "s6",
+        "item_id": "item_136",
+        "ts": 1791990189990,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1263,
+        "session_id": "bg7",
+        "item_id": "item_000",
+        "ts": 1791990190889,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1264,
+        "session_id": "s1",
+        "item_id": "item_029",
+        "ts": 1791990191731,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1265,
+        "session_id": "s2",
+        "item_id": "item_067",
+        "ts": 1791990192585,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1266,
+        "session_id": "s1",
+        "item_id": "item_093",
+        "ts": 1791990193460,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1267,
+        "session_id": "s6",
+        "item_id": "item_173",
+        "ts": 1791990194295,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1268,
+        "session_id": "s5",
+        "item_id": "item_175",
+        "ts": 1791990195159,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1269,
+        "session_id": "s4",
+        "item_id": "item_175",
+        "ts": 1791990196044,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1270,
+        "session_id": "s1",
+        "item_id": "item_198",
+        "ts": 1791990196307,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1271,
+        "session_id": "bg8",
+        "item_id": "item_000",
+        "ts": 1791990197253,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1272,
+        "session_id": "s3",
+        "item_id": "item_167",
+        "ts": 1791990197519,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1273,
+        "session_id": "s3",
+        "item_id": "item_115",
+        "ts": 1791990198413,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1274,
+        "session_id": "s4",
+        "item_id": "item_024",
+        "ts": 1791990199575,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1275,
+        "session_id": "s3",
+        "item_id": "item_179",
+        "ts": 1791990200414,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1276,
+        "session_id": "s1",
+        "item_id": "item_056",
+        "ts": 1791990201298,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1277,
+        "session_id": "bg9",
+        "item_id": "item_008",
+        "ts": 1791990202224,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1278,
+        "session_id": "bg10",
+        "item_id": "item_003",
+        "ts": 1791990203068,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1279,
+        "session_id": "s6",
+        "item_id": "item_147",
+        "ts": 1791990203915,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1280,
+        "session_id": "bg12",
+        "item_id": "item_002",
+        "ts": 1791990204781,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1281,
+        "session_id": "s2",
+        "item_id": "item_035",
+        "ts": 1791990205607,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1282,
+        "session_id": "bg14",
+        "item_id": "item_037",
+        "ts": 1791990206425,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1283,
+        "session_id": "bg15",
+        "item_id": "item_066",
+        "ts": 1791990207259,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1284,
+        "session_id": "bg16",
+        "item_id": "item_003",
+        "ts": 1791990208074,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1285,
+        "session_id": "s4",
+        "item_id": "item_151",
+        "ts": 1791990208340,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1286,
+        "session_id": "s4",
+        "item_id": "item_130",
+        "ts": 1791990209715,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1287,
+        "session_id": "s17",
+        "item_id": "item_167",
+        "ts": 1791990210582,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1288,
+        "session_id": "bg18",
+        "item_id": "item_016",
+        "ts": 1791990210842,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1289,
+        "session_id": "s3",
+        "item_id": "item_160",
+        "ts": 1791990211643,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1290,
+        "session_id": "s5",
+        "item_id": "item_024",
+        "ts": 1791990212712,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1291,
+        "session_id": "s11",
+        "item_id": "item_036",
+        "ts": 1791990212991,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1292,
+        "session_id": "bg20",
+        "item_id": "item_015",
+        "ts": 1791990213876,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1293,
+        "session_id": "s19",
+        "item_id": "item_175",
+        "ts": 1791990214762,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1294,
+        "session_id": "s2",
+        "item_id": "item_062",
+        "ts": 1791990215061,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1295,
+        "session_id": "s2",
+        "item_id": "item_095",
+        "ts": 1791990215928,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1296,
+        "session_id": "bg21",
+        "item_id": "item_003",
+        "ts": 1791990216772,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1297,
+        "session_id": "s22",
+        "item_id": "item_089",
+        "ts": 1791990217034,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1298,
+        "session_id": "s22",
+        "item_id": "item_167",
+        "ts": 1791990217859,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1299,
+        "session_id": "s22",
+        "item_id": "item_066",
+        "ts": 1791990218511,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1300,
+        "session_id": "s13",
+        "item_id": "item_138",
+        "ts": 1791990218768,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1301,
+        "session_id": "s22",
+        "item_id": "item_116",
+        "ts": 1791990219585,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1302,
+        "session_id": "s23",
+        "item_id": "item_167",
+        "ts": 1791990220423,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1303,
+        "session_id": "s19",
+        "item_id": "item_024",
+        "ts": 1791990220694,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1304,
+        "session_id": "s11",
+        "item_id": "item_032",
+        "ts": 1791990221374,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1305,
+        "session_id": "bg24",
+        "item_id": "item_000",
+        "ts": 1791990222229,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1306,
+        "session_id": "s5",
+        "item_id": "item_151",
+        "ts": 1791990222887,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1307,
+        "session_id": "bg25",
+        "item_id": "item_000",
+        "ts": 1791990223156,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1308,
+        "session_id": "s23",
+        "item_id": "item_115",
+        "ts": 1791990223432,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1309,
+        "session_id": "s5",
+        "item_id": "item_130",
+        "ts": 1791990223701,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1310,
+        "session_id": "s19",
+        "item_id": "item_151",
+        "ts": 1791990223988,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1311,
+        "session_id": "s23",
+        "item_id": "item_179",
+        "ts": 1791990225473,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1312,
+        "session_id": "bg27",
+        "item_id": "item_000",
+        "ts": 1791990225739,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1313,
+        "session_id": "bg28",
+        "item_id": "item_020",
+        "ts": 1791990226013,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1314,
+        "session_id": "s17",
+        "item_id": "item_115",
+        "ts": 1791990226843,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1315,
+        "session_id": "bg29",
+        "item_id": "item_002",
+        "ts": 1791990227112,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1316,
+        "session_id": "s13",
+        "item_id": "item_114",
+        "ts": 1791990227756,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1317,
+        "session_id": "s26",
+        "item_id": "item_089",
+        "ts": 1791990228612,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1318,
+        "session_id": "bg30",
+        "item_id": "item_001",
+        "ts": 1791990228876,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1319,
+        "session_id": "s13",
+        "item_id": "item_191",
+        "ts": 1791990229721,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1320,
+        "session_id": "s11",
+        "item_id": "item_168",
+        "ts": 1791990230749,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1321,
+        "session_id": "bg31",
+        "item_id": "item_001",
+        "ts": 1791990231596,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1322,
+        "session_id": "s23",
+        "item_id": "item_160",
+        "ts": 1791990231862,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1323,
+        "session_id": "s13",
+        "item_id": "item_198",
+        "ts": 1791990232501,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1324,
+        "session_id": "s11",
+        "item_id": "item_035",
+        "ts": 1791990233157,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1325,
+        "session_id": "s17",
+        "item_id": "item_179",
+        "ts": 1791990234030,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1326,
+        "session_id": "s26",
+        "item_id": "item_167",
+        "ts": 1791990234305,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1327,
+        "session_id": "bg35",
+        "item_id": "item_056",
+        "ts": 1791990234566,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1328,
+        "session_id": "s17",
+        "item_id": "item_160",
+        "ts": 1791990234829,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1329,
+        "session_id": "s19",
+        "item_id": "item_130",
+        "ts": 1791990235093,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1330,
+        "session_id": "s26",
+        "item_id": "item_066",
+        "ts": 1791990235751,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1331,
+        "session_id": "bg38",
+        "item_id": "item_007",
+        "ts": 1791990236384,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1332,
+        "session_id": "s37",
+        "item_id": "item_044",
+        "ts": 1791990237239,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1333,
+        "session_id": "s36",
+        "item_id": "item_089",
+        "ts": 1791990237887,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1334,
+        "session_id": "s36",
+        "item_id": "item_167",
+        "ts": 1791990238525,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1335,
+        "session_id": "bg39",
+        "item_id": "item_004",
+        "ts": 1791990239186,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1336,
+        "session_id": "s36",
+        "item_id": "item_066",
+        "ts": 1791990240733,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1337,
+        "session_id": "bg40",
+        "item_id": "item_021",
+        "ts": 1791990241003,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1338,
+        "session_id": "bg41",
+        "item_id": "item_003",
+        "ts": 1791990241865,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1339,
+        "session_id": "bg42",
+        "item_id": "item_002",
+        "ts": 1791990242541,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1340,
+        "session_id": "bg43",
+        "item_id": "item_004",
+        "ts": 1791990242802,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1341,
+        "session_id": "s100005",
+        "item_id": "item_052",
+        "ts": 1791990244501,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1342,
+        "session_id": "s100001",
+        "item_id": "item_138",
+        "ts": 1791990245371,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1343,
+        "session_id": "bg100007",
+        "item_id": "item_000",
+        "ts": 1791990246018,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1344,
+        "session_id": "s100001",
+        "item_id": "item_114",
+        "ts": 1791990246292,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1345,
+        "session_id": "bg100008",
+        "item_id": "item_000",
+        "ts": 1791990246560,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1346,
+        "session_id": "s100006",
+        "item_id": "item_175",
+        "ts": 1791990246833,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1347,
+        "session_id": "s100005",
+        "item_id": "item_119",
+        "ts": 1791990247507,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1348,
+        "session_id": "s100005",
+        "item_id": "item_172",
+        "ts": 1791990248379,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1349,
+        "session_id": "s100002",
+        "item_id": "item_131",
+        "ts": 1791990249585,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1350,
+        "session_id": "bg100009",
+        "item_id": "item_047",
+        "ts": 1791990250435,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1351,
+        "session_id": "s100001",
+        "item_id": "item_191",
+        "ts": 1791990251273,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1352,
+        "session_id": "bg100010",
+        "item_id": "item_002",
+        "ts": 1791990252323,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1353,
+        "session_id": "s100006",
+        "item_id": "item_024",
+        "ts": 1791990252970,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1354,
+        "session_id": "s100006",
+        "item_id": "item_151",
+        "ts": 1791990253229,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1355,
+        "session_id": "bg100011",
+        "item_id": "item_000",
+        "ts": 1791990253891,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1356,
+        "session_id": "s100003",
+        "item_id": "item_029",
+        "ts": 1791990254167,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1357,
+        "session_id": "bg100012",
+        "item_id": "item_000",
+        "ts": 1791990255022,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1358,
+        "session_id": "s100005",
+        "item_id": "item_149",
+        "ts": 1791990255290,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1359,
+        "session_id": "s100002",
+        "item_id": "item_120",
+        "ts": 1791990256216,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1360,
+        "session_id": "s100002",
+        "item_id": "item_065",
+        "ts": 1791990257068,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1361,
+        "session_id": "bg100014",
+        "item_id": "item_000",
+        "ts": 1791990257922,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1362,
+        "session_id": "bg100015",
+        "item_id": "item_067",
+        "ts": 1791990258185,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1363,
+        "session_id": "s100013",
+        "item_id": "item_047",
+        "ts": 1791990259747,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1364,
+        "session_id": "bg100016",
+        "item_id": "item_058",
+        "ts": 1791990260004,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1365,
+        "session_id": "bg100017",
+        "item_id": "item_112",
+        "ts": 1791990260847,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1366,
+        "session_id": "bg100018",
+        "item_id": "item_000",
+        "ts": 1791990263098,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1367,
+        "session_id": "s100002",
+        "item_id": "item_034",
+        "ts": 1791990263359,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1368,
+        "session_id": "bg100019",
+        "item_id": "item_094",
+        "ts": 1791990264261,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1369,
+        "session_id": "s100006",
+        "item_id": "item_130",
+        "ts": 1791990265116,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1370,
+        "session_id": "s100004",
+        "item_id": "item_089",
+        "ts": 1791990265786,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1371,
+        "session_id": "s100021",
+        "item_id": "item_044",
+        "ts": 1791990266464,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1372,
+        "session_id": "bg100022",
+        "item_id": "item_009",
+        "ts": 1791990267122,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1373,
+        "session_id": "bg100023",
+        "item_id": "item_000",
+        "ts": 1791990267944,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1374,
+        "session_id": "s100001",
+        "item_id": "item_198",
+        "ts": 1791990268605,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1375,
+        "session_id": "s100003",
+        "item_id": "item_093",
+        "ts": 1791990269299,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1376,
+        "session_id": "bg100025",
+        "item_id": "item_000",
+        "ts": 1791990269557,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1377,
+        "session_id": "s100021",
+        "item_id": "item_061",
+        "ts": 1791990269820,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1378,
+        "session_id": "bg100026",
+        "item_id": "item_007",
+        "ts": 1791990271014,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1379,
+        "session_id": "s100021",
+        "item_id": "item_151",
+        "ts": 1791990271658,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1380,
+        "session_id": "s100004",
+        "item_id": "item_167",
+        "ts": 1791990271924,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1381,
+        "session_id": "s100003",
+        "item_id": "item_198",
+        "ts": 1791990272185,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1382,
+        "session_id": "bg100027",
+        "item_id": "item_001",
+        "ts": 1791990272446,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1383,
+        "session_id": "s100021",
+        "item_id": "item_146",
+        "ts": 1791990273088,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1384,
+        "session_id": "s100003",
+        "item_id": "item_056",
+        "ts": 1791990273920,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1385,
+        "session_id": "s100029",
+        "item_id": "item_047",
+        "ts": 1791990274183,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1386,
+        "session_id": "s100028",
+        "item_id": "item_089",
+        "ts": 1791990274815,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1387,
+        "session_id": "s100020",
+        "item_id": "item_029",
+        "ts": 1791990275082,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1388,
+        "session_id": "s100029",
+        "item_id": "item_051",
+        "ts": 1791990275759,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1389,
+        "session_id": "s100020",
+        "item_id": "item_093",
+        "ts": 1791990276599,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1390,
+        "session_id": "s100029",
+        "item_id": "item_116",
+        "ts": 1791990276864,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1391,
+        "session_id": "s100024",
+        "item_id": "item_052",
+        "ts": 1791990278491,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1392,
+        "session_id": "s100004",
+        "item_id": "item_066",
+        "ts": 1791990279127,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1393,
+        "session_id": "s100028",
+        "item_id": "item_167",
+        "ts": 1791990279388,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1394,
+        "session_id": "bg100030",
+        "item_id": "item_193",
+        "ts": 1791990279653,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1395,
+        "session_id": "s100013",
+        "item_id": "item_051",
+        "ts": 1791990280523,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1396,
+        "session_id": "s100013",
+        "item_id": "item_116",
+        "ts": 1791990280786,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1397,
+        "session_id": "bg100031",
+        "item_id": "item_080",
+        "ts": 1791990281057,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1398,
+        "session_id": "bg100032",
+        "item_id": "item_002",
+        "ts": 1791990281925,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1399,
+        "session_id": "s100028",
+        "item_id": "item_066",
+        "ts": 1791990282588,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1400,
+        "session_id": "bg100033",
+        "item_id": "item_012",
+        "ts": 1791990283242,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1401,
+        "session_id": "bg100034",
+        "item_id": "item_016",
+        "ts": 1791990284211,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1402,
+        "session_id": "s100028",
+        "item_id": "item_116",
+        "ts": 1791990285078,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1403,
+        "session_id": "s100004",
+        "item_id": "item_116",
+        "ts": 1791990285349,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1404,
+        "session_id": "bg100036",
+        "item_id": "item_000",
+        "ts": 1791990285639,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1405,
+        "session_id": "s100037",
+        "item_id": "item_138",
+        "ts": 1791990285908,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1406,
+        "session_id": "s100024",
+        "item_id": "item_119",
+        "ts": 1791990286563,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1407,
+        "session_id": "s100020",
+        "item_id": "item_198",
+        "ts": 1791990286825,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1408,
+        "session_id": "bg100038",
+        "item_id": "item_000",
+        "ts": 1791990287088,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1409,
+        "session_id": "s100024",
+        "item_id": "item_172",
+        "ts": 1791990287354,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1410,
+        "session_id": "s100024",
+        "item_id": "item_149",
+        "ts": 1791990287616,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1411,
+        "session_id": "bg100039",
+        "item_id": "item_062",
+        "ts": 1791990288275,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1412,
+        "session_id": "s100029",
+        "item_id": "item_059",
+        "ts": 1791990289132,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1413,
+        "session_id": "s100020",
+        "item_id": "item_056",
+        "ts": 1791990289996,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1414,
+        "session_id": "s100035",
+        "item_id": "item_036",
+        "ts": 1791990291974,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1415,
+        "session_id": "bg100043",
+        "item_id": "item_008",
+        "ts": 1791990292834,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1416,
+        "session_id": "s100013",
+        "item_id": "item_059",
+        "ts": 1791990295567,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1417,
+        "session_id": "s100037",
+        "item_id": "item_114",
+        "ts": 1791990295837,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1418,
+        "session_id": "s100040",
+        "item_id": "item_047",
+        "ts": 1791990296100,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1419,
+        "session_id": "s100037",
+        "item_id": "item_191",
+        "ts": 1791990296739,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1420,
+        "session_id": "s100035",
+        "item_id": "item_032",
+        "ts": 1791990297001,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1421,
+        "session_id": "s100035",
+        "item_id": "item_168",
+        "ts": 1791990297265,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1422,
+        "session_id": "bg100045",
+        "item_id": "item_000",
+        "ts": 1791990297913,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1423,
+        "session_id": "s100035",
+        "item_id": "item_035",
+        "ts": 1791990298185,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1424,
+        "session_id": "s100042",
+        "item_id": "item_167",
+        "ts": 1791990298455,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1425,
+        "session_id": "bg100047",
+        "item_id": "item_031",
+        "ts": 1791990298725,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1426,
+        "session_id": "bg100048",
+        "item_id": "item_001",
+        "ts": 1791990299671,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1427,
+        "session_id": "s100040",
+        "item_id": "item_051",
+        "ts": 1791990300316,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1428,
+        "session_id": "bg100049",
+        "item_id": "item_000",
+        "ts": 1791990300584,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1429,
+        "session_id": "bg100050",
+        "item_id": "item_002",
+        "ts": 1791990300858,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1430,
+        "session_id": "bg100051",
+        "item_id": "item_045",
+        "ts": 1791990301125,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1431,
+        "session_id": "bg100052",
+        "item_id": "item_048",
+        "ts": 1791990301978,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1432,
+        "session_id": "s100046",
+        "item_id": "item_052",
+        "ts": 1791990302904,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1433,
+        "session_id": "s100037",
+        "item_id": "item_198",
+        "ts": 1791990303567,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1434,
+        "session_id": "bg100053",
+        "item_id": "item_001",
+        "ts": 1791990303837,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1435,
+        "session_id": "bg100054",
+        "item_id": "item_005",
+        "ts": 1791990304101,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1436,
+        "session_id": "s100041",
+        "item_id": "item_131",
+        "ts": 1791990304929,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1437,
+        "session_id": "s100041",
+        "item_id": "item_120",
+        "ts": 1791990305580,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1438,
+        "session_id": "s100042",
+        "item_id": "item_115",
+        "ts": 1791990306263,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1439,
+        "session_id": "bg100056",
+        "item_id": "item_153",
+        "ts": 1791990307312,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1440,
+        "session_id": "s100055",
+        "item_id": "item_175",
+        "ts": 1791990308537,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1441,
+        "session_id": "s100055",
+        "item_id": "item_024",
+        "ts": 1791990311128,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1442,
+        "session_id": "bg100057",
+        "item_id": "item_008",
+        "ts": 1791990311402,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1443,
+        "session_id": "bg100058",
+        "item_id": "item_000",
+        "ts": 1791990311678,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1444,
+        "session_id": "bg100059",
+        "item_id": "item_000",
+        "ts": 1791990311943,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1445,
+        "session_id": "bg100060",
+        "item_id": "item_001",
+        "ts": 1791990312212,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1446,
+        "session_id": "s100044",
+        "item_id": "item_067",
+        "ts": 1791990312486,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1447,
+        "session_id": "s100042",
+        "item_id": "item_179",
+        "ts": 1791990313147,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1448,
+        "session_id": "s100046",
+        "item_id": "item_119",
+        "ts": 1791990313416,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1449,
+        "session_id": "s100046",
+        "item_id": "item_172",
+        "ts": 1791990313688,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1450,
+        "session_id": "s100040",
+        "item_id": "item_116",
+        "ts": 1791990314625,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1451,
+        "session_id": "bg100061",
+        "item_id": "item_000",
+        "ts": 1791990314891,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1452,
+        "session_id": "bg100062",
+        "item_id": "item_008",
+        "ts": 1791990315529,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1453,
+        "session_id": "bg100063",
+        "item_id": "item_030",
+        "ts": 1791990316178,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1454,
+        "session_id": "bg100064",
+        "item_id": "item_002",
+        "ts": 1791990317068,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1455,
+        "session_id": "s100055",
+        "item_id": "item_151",
+        "ts": 1791990317336,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1456,
+        "session_id": "bg100065",
+        "item_id": "item_013",
+        "ts": 1791990317599,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1457,
+        "session_id": "bg100066",
+        "item_id": "item_000",
+        "ts": 1791990318448,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1458,
+        "session_id": "bg100067",
+        "item_id": "item_006",
+        "ts": 1791990318712,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1459,
+        "session_id": "bg100068",
+        "item_id": "item_002",
+        "ts": 1791990319630,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1460,
+        "session_id": "bg100069",
+        "item_id": "item_009",
+        "ts": 1791990319893,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1461,
+        "session_id": "s100055",
+        "item_id": "item_130",
+        "ts": 1791990320544,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1462,
+        "session_id": "bg100070",
+        "item_id": "item_019",
+        "ts": 1791990320810,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1463,
+        "session_id": "bg100071",
+        "item_id": "item_013",
+        "ts": 1791990321705,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1464,
+        "session_id": "s100040",
+        "item_id": "item_059",
+        "ts": 1791990321966,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1465,
+        "session_id": "s100046",
+        "item_id": "item_149",
+        "ts": 1791990322229,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1466,
+        "session_id": "bg100074",
+        "item_id": "item_012",
+        "ts": 1791990324128,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1467,
+        "session_id": "s100072",
+        "item_id": "item_052",
+        "ts": 1791990324781,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1468,
+        "session_id": "bg100076",
+        "item_id": "item_006",
+        "ts": 1791990325471,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1469,
+        "session_id": "bg100077",
+        "item_id": "item_145",
+        "ts": 1791990325737,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1470,
+        "session_id": "bg100078",
+        "item_id": "item_017",
+        "ts": 1791990326592,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1471,
+        "session_id": "s100075",
+        "item_id": "item_044",
+        "ts": 1791990327439,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1472,
+        "session_id": "s100044",
+        "item_id": "item_035",
+        "ts": 1791990328311,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1473,
+        "session_id": "s100042",
+        "item_id": "item_160",
+        "ts": 1791990328944,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1474,
+        "session_id": "bg100079",
+        "item_id": "item_001",
+        "ts": 1791990329210,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1475,
+        "session_id": "s100041",
+        "item_id": "item_065",
+        "ts": 1791990329896,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1476,
+        "session_id": "s100073",
+        "item_id": "item_175",
+        "ts": 1791990330576,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1477,
+        "session_id": "s100041",
+        "item_id": "item_034",
+        "ts": 1791990331236,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1478,
+        "session_id": "s100080",
+        "item_id": "item_029",
+        "ts": 1791990331904,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1479,
+        "session_id": "s100081",
+        "item_id": "item_036",
+        "ts": 1791990332558,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1480,
+        "session_id": "s100075",
+        "item_id": "item_061",
+        "ts": 1791990333216,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1481,
+        "session_id": "s100081",
+        "item_id": "item_032",
+        "ts": 1791990333483,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1482,
+        "session_id": "bg100082",
+        "item_id": "item_087",
+        "ts": 1791990333755,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1483,
+        "session_id": "bg100083",
+        "item_id": "item_083",
+        "ts": 1791990334601,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1484,
+        "session_id": "bg100084",
+        "item_id": "item_001",
+        "ts": 1791990335452,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1485,
+        "session_id": "bg100085",
+        "item_id": "item_022",
+        "ts": 1791990335719,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1486,
+        "session_id": "s100080",
+        "item_id": "item_093",
+        "ts": 1791990336586,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1487,
+        "session_id": "s100044",
+        "item_id": "item_062",
+        "ts": 1791990336861,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1488,
+        "session_id": "s100075",
+        "item_id": "item_151",
+        "ts": 1791990337136,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1489,
+        "session_id": "bg100086",
+        "item_id": "item_181",
+        "ts": 1791990337402,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1490,
+        "session_id": "s100075",
+        "item_id": "item_146",
+        "ts": 1791990338864,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1491,
+        "session_id": "s100081",
+        "item_id": "item_168",
+        "ts": 1791990341041,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1492,
+        "session_id": "s100081",
+        "item_id": "item_035",
+        "ts": 1791990341310,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1493,
+        "session_id": "s100088",
+        "item_id": "item_044",
+        "ts": 1791990341587,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1494,
+        "session_id": "bg100089",
+        "item_id": "item_004",
+        "ts": 1791990341855,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1495,
+        "session_id": "bg100090",
+        "item_id": "item_059",
+        "ts": 1791990342738,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1496,
+        "session_id": "s100087",
+        "item_id": "item_067",
+        "ts": 1791990343423,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1497,
+        "session_id": "s100072",
+        "item_id": "item_119",
+        "ts": 1791990344178,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1498,
+        "session_id": "s100044",
+        "item_id": "item_095",
+        "ts": 1791990344442,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1499,
+        "session_id": "bg100091",
+        "item_id": "item_001",
+        "ts": 1791990344714,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1500,
+        "session_id": "s100072",
+        "item_id": "item_172",
+        "ts": 1791990344987,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1501,
+        "session_id": "s100073",
+        "item_id": "item_024",
+        "ts": 1791990345255,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1502,
+        "session_id": "s100073",
+        "item_id": "item_151",
+        "ts": 1791990345528,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1503,
+        "session_id": "bg100093",
+        "item_id": "item_000",
+        "ts": 1791990345808,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1504,
+        "session_id": "s100088",
+        "item_id": "item_136",
+        "ts": 1791990346082,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1505,
+        "session_id": "s100072",
+        "item_id": "item_149",
+        "ts": 1791990347039,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1506,
+        "session_id": "s100088",
+        "item_id": "item_173",
+        "ts": 1791990347388,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1507,
+        "session_id": "bg100095",
+        "item_id": "item_010",
+        "ts": 1791990347655,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1508,
+        "session_id": "bg100096",
+        "item_id": "item_067",
+        "ts": 1791990348544,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1509,
+        "session_id": "bg100097",
+        "item_id": "item_003",
+        "ts": 1791990348816,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1510,
+        "session_id": "s100087",
+        "item_id": "item_035",
+        "ts": 1791990349693,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1511,
+        "session_id": "s100088",
+        "item_id": "item_147",
+        "ts": 1791990349953,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1512,
+        "session_id": "bg100098",
+        "item_id": "item_138",
+        "ts": 1791990350209,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1513,
+        "session_id": "s100099",
+        "item_id": "item_067",
+        "ts": 1791990351061,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1514,
+        "session_id": "s100094",
+        "item_id": "item_047",
+        "ts": 1791990351318,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1515,
+        "session_id": "bg100100",
+        "item_id": "item_006",
+        "ts": 1791990351979,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1516,
+        "session_id": "s100092",
+        "item_id": "item_052",
+        "ts": 1791990354511,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1517,
+        "session_id": "s100087",
+        "item_id": "item_062",
+        "ts": 1791990355157,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1518,
+        "session_id": "bg100101",
+        "item_id": "item_044",
+        "ts": 1791990355426,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1519,
+        "session_id": "bg100102",
+        "item_id": "item_059",
+        "ts": 1791990356088,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1520,
+        "session_id": "bg100103",
+        "item_id": "item_171",
+        "ts": 1791990356350,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1521,
+        "session_id": "s100092",
+        "item_id": "item_119",
+        "ts": 1791990357241,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1522,
+        "session_id": "s100099",
+        "item_id": "item_035",
+        "ts": 1791990357506,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1523,
+        "session_id": "s100099",
+        "item_id": "item_062",
+        "ts": 1791990357791,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1524,
+        "session_id": "s100092",
+        "item_id": "item_172",
+        "ts": 1791990358060,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1525,
+        "session_id": "s100087",
+        "item_id": "item_095",
+        "ts": 1791990358330,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1526,
+        "session_id": "s100094",
+        "item_id": "item_051",
+        "ts": 1791990358616,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1527,
+        "session_id": "s100094",
+        "item_id": "item_116",
+        "ts": 1791990358879,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1528,
+        "session_id": "s100094",
+        "item_id": "item_059",
+        "ts": 1791990359143,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1529,
+        "session_id": "s100099",
+        "item_id": "item_095",
+        "ts": 1791990359408,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1530,
+        "session_id": "s100073",
+        "item_id": "item_130",
+        "ts": 1791990359669,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1531,
+        "session_id": "bg100107",
+        "item_id": "item_002",
+        "ts": 1791990359932,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1532,
+        "session_id": "bg100108",
+        "item_id": "item_039",
+        "ts": 1791990360587,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1533,
+        "session_id": "bg100109",
+        "item_id": "item_032",
+        "ts": 1791990361436,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1534,
+        "session_id": "bg100110",
+        "item_id": "item_000",
+        "ts": 1791990362162,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1535,
+        "session_id": "s100092",
+        "item_id": "item_149",
+        "ts": 1791990362830,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "PREWARM"
+      },
+      {
+        "id": 1536,
+        "session_id": "s100080",
+        "item_id": "item_198",
+        "ts": 1791990363097,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1537,
+        "session_id": "s100104",
+        "item_id": "item_175",
+        "ts": 1791990363830,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      },
+      {
+        "id": 1538,
+        "session_id": "s100105",
+        "item_id": "item_138",
+        "ts": 1791990364518,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1539,
+        "session_id": "bg100113",
+        "item_id": "item_000",
+        "ts": 1791990364784,
+        "cache_hit": 1,
+        "arm": "on",
+        "source": "REACTIVE"
+      },
+      {
+        "id": 1540,
+        "session_id": "s100112",
+        "item_id": "item_036",
+        "ts": 1791990365052,
+        "cache_hit": 0,
+        "arm": "on",
+        "source": "MISS"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 5.6637
+      },
+      "duration": 5.6637,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 167936,
+      "rows_read": 560,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]

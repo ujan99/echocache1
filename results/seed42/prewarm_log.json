@@ -1,0 +1,577 @@
+[
+  {
+    "results": [
+      {
+        "id": 42,
+        "item_id": "item_115",
+        "ts": 1791990220988,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 43,
+        "item_id": "item_179",
+        "ts": 1791990223825,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 44,
+        "item_id": "item_175",
+        "ts": 1791990224732,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 45,
+        "item_id": "item_056",
+        "ts": 1791990233331,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 46,
+        "item_id": "item_136",
+        "ts": 1791990238041,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 47,
+        "item_id": "item_167",
+        "ts": 1791990238746,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 48,
+        "item_id": "item_116",
+        "ts": 1791990241128,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 49,
+        "item_id": "item_000",
+        "ts": 1791990243504,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 50,
+        "item_id": "item_179",
+        "ts": 1791990243952,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 51,
+        "item_id": "item_024",
+        "ts": 1791990247641,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 52,
+        "item_id": "item_151",
+        "ts": 1791990253388,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 53,
+        "item_id": "item_093",
+        "ts": 1791990255364,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 54,
+        "item_id": "item_035",
+        "ts": 1791990259865,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 55,
+        "item_id": "item_167",
+        "ts": 1791990261930,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 56,
+        "item_id": "item_066",
+        "ts": 1791990262369,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 57,
+        "item_id": "item_136",
+        "ts": 1791990267255,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 58,
+        "item_id": "item_056",
+        "ts": 1791990269496,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 59,
+        "item_id": "item_093",
+        "ts": 1791990275900,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 60,
+        "item_id": "item_151",
+        "ts": 1791990277768,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 61,
+        "item_id": "item_119",
+        "ts": 1791990279242,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 62,
+        "item_id": "item_114",
+        "ts": 1791990286708,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 63,
+        "item_id": "item_172",
+        "ts": 1791990287098,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 64,
+        "item_id": "item_149",
+        "ts": 1791990287772,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 65,
+        "item_id": "item_095",
+        "ts": 1791990289478,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 66,
+        "item_id": "item_032",
+        "ts": 1791990293186,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 67,
+        "item_id": "item_000",
+        "ts": 1791990293859,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 68,
+        "item_id": "item_167",
+        "ts": 1791990294383,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 69,
+        "item_id": "item_198",
+        "ts": 1791990294843,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 70,
+        "item_id": "item_191",
+        "ts": 1791990296244,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 71,
+        "item_id": "item_051",
+        "ts": 1791990296893,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 72,
+        "item_id": "item_168",
+        "ts": 1791990297583,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 73,
+        "item_id": "item_035",
+        "ts": 1791990298027,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 74,
+        "item_id": "item_116",
+        "ts": 1791990300742,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 75,
+        "item_id": "item_119",
+        "ts": 1791990303710,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 76,
+        "item_id": "item_120",
+        "ts": 1791990305731,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 77,
+        "item_id": "item_065",
+        "ts": 1791990306393,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 78,
+        "item_id": "item_179",
+        "ts": 1791990307642,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 79,
+        "item_id": "item_066",
+        "ts": 1791990309707,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 80,
+        "item_id": "item_024",
+        "ts": 1791990309742,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 81,
+        "item_id": "item_002",
+        "ts": 1791990310416,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 82,
+        "item_id": "item_151",
+        "ts": 1791990311535,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 83,
+        "item_id": "item_160",
+        "ts": 1791990313736,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 84,
+        "item_id": "item_172",
+        "ts": 1791990313830,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 85,
+        "item_id": "item_149",
+        "ts": 1791990314782,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 86,
+        "item_id": "item_059",
+        "ts": 1791990315049,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 87,
+        "item_id": "item_130",
+        "ts": 1791990317751,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 88,
+        "item_id": "item_167",
+        "ts": 1791990322780,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 89,
+        "item_id": "item_198",
+        "ts": 1791990323340,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 90,
+        "item_id": "item_119",
+        "ts": 1791990325586,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 91,
+        "item_id": "item_061",
+        "ts": 1791990328450,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 92,
+        "item_id": "item_062",
+        "ts": 1791990329076,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 93,
+        "item_id": "item_034",
+        "ts": 1791990331255,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 94,
+        "item_id": "item_024",
+        "ts": 1791990331389,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 95,
+        "item_id": "item_093",
+        "ts": 1791990332694,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 96,
+        "item_id": "item_032",
+        "ts": 1791990333364,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 97,
+        "item_id": "item_151",
+        "ts": 1791990333643,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 98,
+        "item_id": "item_168",
+        "ts": 1791990333899,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 99,
+        "item_id": "item_095",
+        "ts": 1791990337256,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 100,
+        "item_id": "item_000",
+        "ts": 1791990339884,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 101,
+        "item_id": "item_002",
+        "ts": 1791990340322,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 102,
+        "item_id": "item_172",
+        "ts": 1791990344782,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 103,
+        "item_id": "item_149",
+        "ts": 1791990345397,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 104,
+        "item_id": "item_130",
+        "ts": 1791990345916,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 105,
+        "item_id": "item_173",
+        "ts": 1791990347367,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 106,
+        "item_id": "item_147",
+        "ts": 1791990347984,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 107,
+        "item_id": "item_035",
+        "ts": 1791990349260,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 108,
+        "item_id": "item_062",
+        "ts": 1791990350116,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 109,
+        "item_id": "item_114",
+        "ts": 1791990351417,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 110,
+        "item_id": "item_051",
+        "ts": 1791990352096,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 111,
+        "item_id": "item_167",
+        "ts": 1791990352905,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 112,
+        "item_id": "item_001",
+        "ts": 1791990353304,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 113,
+        "item_id": "item_151",
+        "ts": 1791990353752,
+        "arm": "on",
+        "reason": "popularity"
+      },
+      {
+        "id": 114,
+        "item_id": "item_119",
+        "ts": 1791990355291,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 115,
+        "item_id": "item_061",
+        "ts": 1791990356223,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 116,
+        "item_id": "item_095",
+        "ts": 1791990358244,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 117,
+        "item_id": "item_116",
+        "ts": 1791990358992,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 118,
+        "item_id": "item_168",
+        "ts": 1791990362327,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 119,
+        "item_id": "item_056",
+        "ts": 1791990364234,
+        "arm": "on",
+        "reason": "successor"
+      },
+      {
+        "id": 120,
+        "item_id": "item_024",
+        "ts": 1791990364653,
+        "arm": "on",
+        "reason": "successor"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 0.9328
+      },
+      "duration": 0.9328,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 167936,
+      "rows_read": 79,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]
